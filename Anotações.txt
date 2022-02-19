@@ -1,0 +1,6 @@
+Comandos úteis:
+
+git init
+git status
+git commit -m ""
+git push origin master
