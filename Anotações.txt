@@ -1,6 +1,11 @@
-Comandos úteis:
+Comandos utilizados:
 
 git init
 git status
 git commit -m ""
 git push origin master
+
+git config --global user.email ""
+git config --global user.name ""
+
+Obs.: Novos commits serão lançados em breve no repositório.
